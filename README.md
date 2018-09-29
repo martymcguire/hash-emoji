@@ -1,5 +1,5 @@
 # #⃣️😏 hash-emoji
-Emoji Hash Function
+Emoji Hash Function. Fork of https://github.com/earobinson/hash-emoji but without country flag emoji.
 
 [![NPM Version](https://img.shields.io/npm/v/hash-emoji.svg)](https://www.npmjs.com/package/hash-emoji)
 [![Travis Build Status](https://img.shields.io/travis/earobinson/hash-emoji.svg)](https://travis-ci.org/earobinson/hash-emoji)
